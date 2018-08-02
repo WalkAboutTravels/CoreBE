@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class CorebeApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(CorebeApplication.class, args);
 	}
 }

@@ -1,0 +1,5 @@
+sabre:
+  irl-auth: https://api.test.sabre.com/v2/auth/token
+  client-id: V1:jbycqjpgf5xhubu3:DEVCENTER:EXT
+  secret: cyiWL5P6
+  auth-64base: VmpFNmFtSjVZM0ZxY0dkbU5YaG9kV0oxTXpwRVJWWkRSVTVVUlZJNlJWaFU6WTNscFYwdzFVRFk9
